@@ -22,4 +22,8 @@ Accel pedal
 Middle button for "start"
 "coin" button.
 
+## Tempest
+spinner, 2 buttons:  fire, and super-zapper.  Cabinet had spinner right, fire on left (top), super-zapper below.
 
+## Arkanoid
+Spinner, one button...fire...but this one has that fire on both left and right
