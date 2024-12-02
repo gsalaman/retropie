@@ -19,5 +19,7 @@
 | Rampage | 3 | 2 ea (r) | none | none | |
 | Robotron | 2 | none | none | none | |
 | Star Trek | none | 4 | 1 | none | Thrust and phasers together on right, then below is photons and warp |
-
+| Star Wars | 1 | 1 | none | none | special harness |
+| Tempest | none | 2 | 1 | none | butttons on left:  fire above, superzapper below |
+| Toobin' | none | 5x2 | none | none | each player's buttons arranged in an inverted star.  
 
