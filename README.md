@@ -27,3 +27,7 @@ spinner, 2 buttons:  fire, and super-zapper.  Cabinet had spinner right, fire on
 
 ## Arkanoid
 Spinner, one button...fire...but this one has that fire on both left and right
+
+## Star Trek
+Spinner, 4 buttons on right.  thrust and fire top and together.  warp below, closer to spinner...and then photons below thrust.  
+Start by mapping thrust to l trigger, phasers to r trigger, warp to l bumper, photons to r bumper
