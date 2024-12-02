@@ -5,7 +5,7 @@
 | 1943 | 2 | 2 ea (r) | none | none | hit both buttons for loop |
 | Alien Syndrome | 2 | 1(r) | none | none | none |
 | Arkanoid | 0 | 1L, 1R | 1 | none | L & R button both fire |
-| Asteroids | | | | | |
+| Asteroids | 0 | 5 | none | none | 5 buttons in a line.  left 2 are rotate, middle hyperspace, right 2 thrust and fire |
 | Commando | 1 | 2L, 2R | none | none | L & R same....grenade to the left, fire to the right |
 | Dig Dug | 1 | 1L, 1R | none | none | buttons the same |
 | Frogger | 1 | none | none | none | |
