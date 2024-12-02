@@ -15,5 +15,9 @@
 | Joust | 2 | 1 each (r) | none | none | |
 | Klax | 2 | 2 each (l & r) | none | none | |
 | Ms Pac Man | 1 | none | none | none | |
+| QBert | 1 | none | none | none | Joystick offset.  probably omit this one |
+| Rampage | 3 | 2 ea (r) | none | none | |
+| Robotron | 2 | none | none | none | |
+| Star Trek | none | 4 | 1 | none | Thrust and phasers together on right, then below is photons and warp |
 
 
