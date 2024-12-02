@@ -7,4 +7,13 @@
 | Arkanoid | 0 | 1L, 1R | 1 | none | L & R button both fire |
 | Asteroids | | | | | |
 | Commando | 1 | 2L, 2R | none | none | L & R same....grenade to the left, fire to the right |
+| Dig Dug | 1 | 1L, 1R | none | none | buttons the same |
+| Frogger | 1 | none | none | none | |
+| Galaga | 1 | 1L, 1R | none | none | buttons same |
+| Gauntlet | 4 | 2 each (r) | none | none | buttons top and bottom |
+| Gauntlet II | 4 | 2 each (r) | none | none | buttons top and bottom |
+| Joust | 2 | 1 each (r) | none | none | |
+| Klax | 2 | 2 each (l & r) | none | none | |
+| Ms Pac Man | 1 | none | none | none | |
+
 
