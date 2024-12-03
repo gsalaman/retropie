@@ -10,6 +10,8 @@ Yup...back to normal.  I think I need to be cabled.
 link here:
 https://retropie.org.uk/forum/topic/30116/daphne-setup-tutorial-dragon-s-lair-space-ace-etc
 
+https://retropie.org.uk/docs/Daphne/
+
 downloads:  
 https://archive.org/details/daphne-g2g
 
