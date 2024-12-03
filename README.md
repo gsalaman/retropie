@@ -10,6 +10,10 @@ Yup...back to normal.  I think I need to be cabled.
 link here:
 https://retropie.org.uk/forum/topic/30116/daphne-setup-tutorial-dragon-s-lair-space-ace-etc
 
+downloads:  
+https://archive.org/details/daphne-g2g
+
+
 ## Misc controls
 ### Spyhunter
 Left stick does back and forth.
