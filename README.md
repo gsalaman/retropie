@@ -1,5 +1,14 @@
 # retropie
 
+## Spade connector tips and tricks
+So outta the box, the spade connectors for buttons and joysticks are pretty loose.  You can tighten by squeezing with pliers, but this is an art, as if you go too far, you can't get the connector on at all, and then you have to try prying it back apart.
+
+Once I got the feel for it, I did this:
+* take the connector before crimping and slide it on to the post.  Confirm it's loose.  Take it back off.
+* LIGHT squeeze with pliers towards the bottom
+* Retest fit.  Should start going on easy, then stick at the end where you've squeezed it.  May need to squeeze it a little harder, may need to pry it.
+* Then crimp to the wire.
+  
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
 https://retropie.org.uk/docs/PS4-Controller/
