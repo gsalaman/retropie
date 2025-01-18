@@ -8,7 +8,10 @@ Once I got the feel for it, I did this:
 * LIGHT squeeze with pliers towards the bottom
 * Retest fit.  Should start going on easy, then stick at the end where you've squeezed it.  May need to squeeze it a little harder, may need to pry it.
 * Then crimp to the wire.
-  
+
+## Advmame stuff:
+https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
+
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
 https://retropie.org.uk/docs/PS4-Controller/
