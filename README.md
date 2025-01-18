@@ -9,6 +9,8 @@ Once I got the feel for it, I did this:
 * Retest fit.  Should start going on easy, then stick at the end where you've squeezed it.  May need to squeeze it a little harder, may need to pry it.
 * Then crimp to the wire.
 
+## Trackball config
+So for those using lr-mame2003, you can hit the tab menu, and then it saves, per game, analog sensitivy.  trying this over a power cycle...and yeah, it works.  Meaning it must be stored in that weird, non-text config file in '~/Retropie/roms/arcade/lr-mame2003/GAME.cfg'
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
