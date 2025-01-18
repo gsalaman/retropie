@@ -12,6 +12,10 @@ Once I got the feel for it, I did this:
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
+By default, tab brings up the input menu, and escape brings up the menu for exiting.  Can use joystick to move up and down, and enter selects.
+
+tab says it's the "config menu", enter "ui select", and esc "ui cancel".
+
 advmame.rc is in /opt/retropie/configs/mame-advmame
 
 format:  
