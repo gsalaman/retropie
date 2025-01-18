@@ -10,7 +10,10 @@ Once I got the feel for it, I did this:
 * Then crimp to the wire.
 
 ## Trackball config
-So for those using lr-mame2003, you can hit the tab menu, and then it saves, per game, analog sensitivy.  trying this over a power cycle...and yeah, it works.  Meaning it must be stored in that weird, non-text config file in '~/Retropie/roms/arcade/lr-mame2003/GAME.cfg'
+So for those using lr-mame2003, you can hit the tab menu, and then it saves, per game, analog sensitivy.  trying this over a power cycle...and yeah, it works.  Meaning it must be stored in that weird, non-text config file in `~/Retropie/roms/arcade/lr-mame2003/GAME.cfg`
+
+If you are doing both spinner and trackball, one will be mouse 0 and one mouse 1.  I did my plug-in order so that spinner was 0 (for arkanoid and advmame), but then did a rom-specific config file for `input_player1_mouse_index = "1"` for the trackball games.
+
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
