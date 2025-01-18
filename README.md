@@ -26,6 +26,8 @@ I can get it going by picking a key, doing:
 Which would change the q key on keyboard 0 to hit ui_end.  Note that this is gonna be different whether I've got one or two keyboards plugged in, but I think can use the "or" command:
 ```input_map[ui_end] keyboard[0,q] or keyboard[1,q]```
 
+Okay, the "or" didn't work....but keyboard 0 is the console, so I'm good.
+
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
 https://retropie.org.uk/docs/PS4-Controller/
