@@ -12,9 +12,15 @@ Once I got the feel for it, I did this:
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
-1/18 changed mapping for UI esc and select to 6 and 2...which are my P2 start and coin buttons.....but that doesn't seem to stick.  Tried editing the advmame.rc; that caused crash...and I think it's because I did "6" rather than "key_6".  See this:  
+advmame.rc is in /opt/retropie/configs/mame-advmame
+
+format:  
 http://www.advancemame.it/doc-advmame#8.9.6
 
+I can get it going by picking a key, doing:
+```input_map[ui_end] keyboard[0,q]```
+Which would change the q key on keyboard 0 to hit ui_end.  Note that this is gonna be different whether I've got one or two keyboards plugged in, but I think can use the "or" command:
+```input_map[ui_end] keyboard[0,q] or keyboard[1,q]```
 
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
