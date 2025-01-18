@@ -12,7 +12,7 @@ Once I got the feel for it, I did this:
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
-1/18 changed mapping for UI esc and select to 6 and a
+1/18 changed mapping for UI esc and select to 6 and 2...which are my P2 start and coin buttons.
 
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
