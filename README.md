@@ -1,5 +1,8 @@
 # retropie
 
+## Install Notes
+Use raspberry pi imager rather than apple pi baker
+
 ## Spade connector tips and tricks
 So outta the box, the spade connectors for buttons and joysticks are pretty loose.  You can tighten by squeezing with pliers, but this is an art, as if you go too far, you can't get the connector on at all, and then you have to try prying it back apart.
 
