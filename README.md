@@ -22,6 +22,10 @@ Needed to launch from the arcade menu, select emulator FBNeo
 Go into options from main manu, settings, input, and turn on "automatic mouse grab"
 Next, go to quick menu, controls, port 1 controls and set device type to "mouse, ball only"
 
+So although this works, setting analog sensitivity in star wars doesn't seem to do anything.  :(
+
+
+
 
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
@@ -41,6 +45,13 @@ Which would change the q key on keyboard 0 to hit ui_end.  Note that this is gon
 ```input_map[ui_end] keyboard[0,q] or keyboard[1,q]```
 
 Okay, the "or" didn't work....but keyboard 0 is the console, so I'm good.
+
+In theory, you should be able to do "input_setting"...but that doesn't seem to work.
+
+Per game binds also aren't happy...doing:
+```gt3d/input_map[ui_pause] keyboard[0,space]```
+Doesn't crash, but doesn't take...even when I comment out the global.
+
 
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
