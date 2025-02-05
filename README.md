@@ -17,6 +17,12 @@ So for those using lr-mame2003, you can hit the tab menu, and then it saves, per
 
 If you are doing both spinner and trackball, one will be mouse 0 and one mouse 1.  I did my plug-in order so that spinner was 0 (for arkanoid and advmame), but then did a rom-specific config file for `input_player1_mouse_index = "1"` for the trackball games.
 
+Finally got this working for at least star wars under FBneo.
+Needed to launch from the arcade menu, select emulator FBNeo
+Go into options from main manu, settings, input, and turn on "automatic mouse grab"
+Next, go to quick menu, controls, port 1 controls and set device type to "mouse, ball only"
+
+
 ## Advmame stuff:
 https://retropie.org.uk/forum/topic/9172/advmame-support-for-hotkey-for-emulator-exit/2
 
