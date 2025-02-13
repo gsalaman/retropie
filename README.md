@@ -61,8 +61,7 @@ gt3d/input_setting[p1_trackballx] keydelta:32,centerdelta:32,sensitivity:50,reve
 gt3d/input_setting[p1_trackbally] keydelta:32,centerdelta:32,sensitivity:50,reverse:0
 ```
 Gonna try those lines on the Pi4....
-
-
+***AND IT WORKED!!!***
 
 
 ## PS4 dualshock instructions:
