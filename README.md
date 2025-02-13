@@ -52,6 +52,18 @@ Per game binds also aren't happy...doing:
 ```gt3d/input_map[ui_pause] keyboard[0,space]```
 Doesn't crash, but doesn't take...even when I comment out the global.
 
+### 2/13 notes
+Okay, so on a whim, I tried this on Pi3.
+It allowed me to save the advmame.rc on exit!
+The trackball lines were:
+```
+gt3d/input_setting[p1_trackballx] keydelta:32,centerdelta:32,sensitivity:50,reverse:1
+gt3d/input_setting[p1_trackbally] keydelta:32,centerdelta:32,sensitivity:50,reverse:0
+```
+Gonna try those lines on the Pi4....
+
+
+
 
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
