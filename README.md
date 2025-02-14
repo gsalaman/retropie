@@ -63,6 +63,9 @@ gt3d/input_setting[p1_trackbally] keydelta:32,centerdelta:32,sensitivity:50,reve
 Gonna try those lines on the Pi4....
 ***AND IT WORKED!!!***
 
+Dial sensitivity:
+arkanoid/input_setting[p1_dialx] keydelta:15,cenerdelta:15,sensitivity:100,reverse:0
+
 
 ## PS4 dualshock instructions:
 Did this.  Works kinda with one with ds4drv....but second controller not so much.  Gonna try undoing this...
